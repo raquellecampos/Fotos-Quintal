@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+    color: var(--primary-color);
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6{
+    
+    color:#393535 ;
+}
+
+p{
+    color: #999c9e;
+    margin-bottom: 3rem;
+}
+
+h1{
+    font-size: 6rem;
+   
+}
+h2{
+    font-size: 5.5rem;
+    
+}
+h3{
+    font-size: 5rem;
+   
+}
+h4{
+    font-size: 4.5rem;
+    
+}
+h5{
+    font-size: 4rem;
+    
+}
+h6{
+    font-size: 3.5rem;
+  
+}
+a{
+    text-decoration: none;
+}
